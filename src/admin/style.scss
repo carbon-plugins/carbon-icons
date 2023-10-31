@@ -1,0 +1,89 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import './styles/toast.scss';
+@import './../../node_modules/driver.js/dist/driver';
+
+.carbon-plugins_page_carbon-icons {
+  #wpcontent {
+    padding-left: 0;
+  }
+  #wpbody-content {
+    padding-bottom: 0;
+		> div:not(#carbon-icons) {
+			display: none;
+		}
+  }
+  #wpfooter {
+    display: none;
+  }
+	#license {
+		border-top-left-radius: 0;
+		border-bottom-left-radius: 0;
+	}
+  input[type=date], input[type=datetime-local], input[type=datetime], input[type=email], input[type=month], input[type=number], input[type=password], input[type=search], input[type=tel], input[type=text], input[type=time], input[type=url], input[type=week], select {
+    display: block;
+    padding: 0.625rem;
+    height: 38px;
+    font-size: 0.875rem;
+    line-height: 1.25rem;
+    width: 100%;
+    border-radius: 0.5rem;
+    border-width: 1px;
+    border-color: #D1D5DB;
+  }
+	select {
+	 padding-right: 2rem;
+	 width: auto;
+	 flex: 1;
+	 height: fit-content;
+	 color: #111827;
+	 line-height: 1rem;
+	 max-width: none;
+	 &:hover {
+		 color: #111827;
+	 }
+ }
+  input {
+    transition: background-color .2s;
+    &:hover {
+      background-color: #F9FAFB;
+      transition: background-color .2s;
+    }
+  }
+  input[type=radio]{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    margin-top:0;
+    margin-right: 0;
+  }
+}
+
+.dark {
+	select:hover {
+		color: white;
+	}
+	input:hover {
+    background-color: #4B5563;
+	}
+	.carbon-plugins_page_carbon-icons {
+		input[type=date], input[type=datetime-local], input[type=datetime], input[type=email], input[type=month], input[type=number], input[type=password], input[type=search], input[type=tel], input[type=text], input[type=time], input[type=url], input[type=week], select {
+			border-color: var(--dark-grey-2);
+		}
+	}
+
+	div[tabindex="-1"] {
+		height: calc(100vh - 32px);
+	}
+}
+
+.blocker{
+  background:rgba(0, 0, 0, 0.5);
+	position: absolute;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  cursor:pointer;
+}

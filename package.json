@@ -1,0 +1,95 @@
+{
+	"name": "carbon-icons",
+	"version": "1.0.0",
+	"description": "Add a powerful icon picker to your Gutenberg editor",
+	"author": "Carbon Plugins",
+	"license": "GPL-2.0-or-later",
+	"keywords": [
+		"wordpress",
+		"gutenberg",
+		"icons",
+		"icon block",
+		"gutenberg block",
+		"wordpress plugin"
+	],
+	"scripts": {
+		"build": "NODE_ENV=production gulp clean && NODE_ENV=production wp-scripts build --output-path=dist/src && NODE_ENV=production gulp build && NODE_ENV=production gulp copy && gulp zip",
+		"format": "wp-scripts format",
+		"lint:css": "wp-scripts lint-style",
+		"lint:js": "wp-scripts lint-js",
+		"packages-update": "wp-scripts packages-update",
+		"plugin-zip": "wp-scripts plugin-zip",
+		"start": "wp-scripts start --output-path=build/src & gulp",
+		"gulp": "gulp",
+		"translate": "wp i18n make-pot . languages/carbon-icons.pot",
+		"translate-fr": "po2json ./languages/carbon-icons-fr_FR.po ./languages/carbon-icons-fr_FR-carbon-icons.json -d carbon-icons -f jed1.x & po2json ./languages/carbon-icons-fr_FR.po ./languages/carbon-icons-fr_FR-carbon-blocks-icons-editor-script.json -d carbon-icons -f jed1.x",
+		"translate-es": "po2json ./languages/carbon-icons-es_ES.po ./languages/carbon-icons-es_ES-carbon-icons.json -d carbon-icons -f jed1.x & po2json ./languages/carbon-icons-es_ES.po ./languages/carbon-icons-es_ES-carbon-blocks-icons-editor-script.json -d carbon-icons -f jed1.x"
+	},
+	"devDependencies": {
+		"@wordpress/browserslist-config": "^5.27.0",
+		"autoprefixer": "^10.4.16",
+		"cssnano": "^6.0.1",
+		"cssnano-preset-advanced": "^6.0.1",
+		"gulp": "^4.0.2",
+		"gulp-notify": "^4.0.0",
+		"gulp-size": "^4.0.1",
+		"gulp-sort": "^2.0.0",
+		"postcss-merge-queries": "^1.0.3",
+		"postcss-merge-rules": "^6.0.1",
+		"postcss-perfectionist": "^2.3.9",
+		"react": "^18.2.0",
+		"react-dom": "^18.2.0",
+		"react-router-dom": "^6.17.0",
+		"sass": "^1.69.4",
+		"tailwindcss": "^3.3.3"
+	},
+	"dependencies": {
+		"@carbon/components": "^1.0.17",
+		"@iconify/react": "^4.1.1",
+		"@wordpress/block-editor": "^12.12.0",
+		"@wordpress/blocks": "^12.21.0",
+		"@wordpress/compose": "^6.21.0",
+		"@wordpress/scripts": "^26.15.0",
+		"clsx": "^2.0.0",
+		"dompurify": "^3.0.6",
+		"driver.js": "^1.3.0",
+		"gulp-clean": "^0.4.0",
+		"gulp-mode": "^1.1.0",
+		"gulp-postcss": "^9.0.1",
+		"gulp-rename": "^2.0.0",
+		"gulp-sass": "^5.1.0",
+		"gulp-sourcemaps": "^3.0.0",
+		"gulp-zip": "^5.1.0",
+		"iconify": "^1.4.0",
+		"immer": "^10.0.3",
+		"js-confetti": "^0.11.0",
+		"million": "^2.6.4",
+		"po2json": "^0.4.5",
+		"react-toastify": "^9.1.3",
+		"use-immer": "^0.9.0"
+	},
+	"postcss": {
+		"plugins": {
+			"postcss-merge-queries": {},
+			"postcss-merge-rules": {},
+			"cssnano": {
+				"preset": [
+					"advanced",
+					{
+						"zindex": false
+					}
+				]
+			},
+			"postcss-perfectionist": {
+				"format": "compressed"
+			},
+			"tailwindcss": {},
+			"autoprefixer": {
+				"cascade": false
+			}
+		}
+	},
+	"browserslist": [
+		"extends @wordpress/browserslist-config"
+	]
+}

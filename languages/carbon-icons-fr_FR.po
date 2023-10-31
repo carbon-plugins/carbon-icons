@@ -1,0 +1,886 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Carbon Icons 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/carbon-icons\n"
+"POT-Creation-Date: 2023-10-31T13:18:34+01:00\n"
+"PO-Revision-Date: 2023-10-31 13:20+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 3.4.1\n"
+"X-Domain: carbon-icons\n"
+
+#. Plugin Name of the plugin
+#: build/includes/class-carbon-icons-admin.php:45
+#: build/includes/class-carbon-icons-admin.php:46
+#: dist/includes/class-carbon-icons-admin.php:45
+#: dist/includes/class-carbon-icons-admin.php:46
+#: includes/class-carbon-icons-admin.php:45
+#: includes/class-carbon-icons-admin.php:46
+msgid "Carbon Icons"
+msgstr "Carbon Icons"
+
+#. Plugin URI of the plugin
+msgid "https://carbon-plugins.com/carbon-icons/"
+msgstr "https://carbon-plugins.com/carbon-icons/fr/"
+
+#. Description of the plugin
+msgid "Add a powerful icon picker to your Gutenberg editor"
+msgstr "Ajoutez un sélecteur d'icônes puissant à votre éditeur Gutenberg"
+
+#. Author of the plugin
+#: build/includes/class-carbon-icons-admin.php:34
+#: build/includes/class-carbon-icons-admin.php:35
+#: dist/includes/class-carbon-icons-admin.php:34
+#: dist/includes/class-carbon-icons-admin.php:35
+#: includes/class-carbon-icons-admin.php:34
+#: includes/class-carbon-icons-admin.php:35
+msgid "Carbon Plugins"
+msgstr "Carbon Plugins"
+
+#. Author URI of the plugin
+msgid "https://carbon-plugins.com/"
+msgstr "https://carbon-plugins.com/fr/"
+
+#: admin/carbon-icons-dashboard.php:5 build/admin/carbon-icons-dashboard.php:5
+#: dist/admin/carbon-icons-dashboard.php:5
+msgid ""
+"Enhance your content creation with Carbon Icons, a dynamic WordPress plugin "
+"designed to elevate your block editor experience. Choose from an extensive "
+"selection of modern and complexe SVG icons to effortlessly enrich your "
+"website's appearance."
+msgstr ""
+"Améliorez votre création de contenu avec Carbon Icons, un plugin WordPress "
+"dynamique conçu pour rehausser votre expérience d'édition par blocs. "
+"Choisissez parmi une vaste sélection d'icônes SVG modernes et complexes pour "
+"enrichir sans effort l'apparence de votre site web."
+
+#: admin/carbon-icons-dashboard.php:12
+#: build/admin/carbon-icons-dashboard.php:12
+#: dist/admin/carbon-icons-dashboard.php:12
+msgid ""
+"Unleash your creativity with Carbon Blocks, an ingenious WordPress plugin "
+"that expands the potential of your block editor. Seamlessly create "
+"captivating layouts and designs to enrich your website's visual appeal."
+msgstr ""
+"Libérez votre créativité avec Carbon Blocks, un ingénieux plugin WordPress "
+"qui étend le potentiel de votre éditeur de blocs. Créez en toute fluidité "
+"des mises en page et des designs captivants pour enrichir l'attrait visuel "
+"de votre site web."
+
+#: admin/carbon-icons-dashboard.php:20
+#: build/admin/carbon-icons-dashboard.php:20
+#: dist/admin/carbon-icons-dashboard.php:20
+msgid ""
+"Engage your visitors with Carbon Sliders, an exceptional WordPress plugin "
+"designed to help you build captivating image and content sliders "
+"effortlessly. Elevate your website's appeal and leave a lasting impression "
+"on your audience."
+msgstr ""
+"Impliquez vos visiteurs avec Carbon Sliders, un exceptionnel plugin "
+"WordPress conçu pour vous aider à créer des diaporamas d'images et de "
+"contenu captivants sans effort. Rehaussez l'attrait de votre site web et "
+"laissez une impression durable sur votre audience."
+
+#: admin/carbon-icons-dashboard.php:33
+#: build/admin/carbon-icons-dashboard.php:33
+#: dist/admin/carbon-icons-dashboard.php:33
+msgid "Good morning "
+msgstr "Bonjour "
+
+#: admin/carbon-icons-dashboard.php:34
+#: build/admin/carbon-icons-dashboard.php:34
+#: dist/admin/carbon-icons-dashboard.php:34
+msgid "Good afternoon "
+msgstr "Bonjour "
+
+#: admin/carbon-icons-dashboard.php:35
+#: build/admin/carbon-icons-dashboard.php:35
+#: dist/admin/carbon-icons-dashboard.php:35
+msgid "Good evening "
+msgstr "Bonsoir "
+
+#: admin/carbon-icons-dashboard.php:36
+#: build/admin/carbon-icons-dashboard.php:36
+#: dist/admin/carbon-icons-dashboard.php:36
+msgid "Good night "
+msgstr "Bonsoir "
+
+#: admin/carbon-icons-dashboard.php:55
+#: build/admin/carbon-icons-dashboard.php:55
+#: dist/admin/carbon-icons-dashboard.php:55
+msgid "guest !"
+msgstr "invité !"
+
+#: admin/carbon-icons-dashboard.php:62
+#: build/admin/carbon-icons-dashboard.php:62
+#: dist/admin/carbon-icons-dashboard.php:62
+msgid "Currently installed plugins"
+msgstr "Plugins actuellement installés"
+
+#: admin/carbon-icons-dashboard.php:88
+#: build/admin/carbon-icons-dashboard.php:88
+#: dist/admin/carbon-icons-dashboard.php:88
+msgid "Active"
+msgstr "Actif"
+
+#: admin/carbon-icons-dashboard.php:96
+#: build/admin/carbon-icons-dashboard.php:96
+#: dist/admin/carbon-icons-dashboard.php:96 build/src/admin/index.js:5533
+#: dist/src/admin/index.js:1 src/admin/pages/Dashboard.jsx:17
+#: build/src/admin/index.js:5031
+msgid "Dashboard"
+msgstr "Tableau de bord"
+
+#: admin/carbon-icons-dashboard.php:102
+#: build/admin/carbon-icons-dashboard.php:102
+#: dist/admin/carbon-icons-dashboard.php:102
+msgid "License"
+msgstr "Licence"
+
+#: admin/carbon-icons-dashboard.php:114
+#: build/admin/carbon-icons-dashboard.php:114
+#: dist/admin/carbon-icons-dashboard.php:114
+msgid "Inactive"
+msgstr "Inactif"
+
+#: admin/carbon-icons-dashboard.php:122
+#: build/admin/carbon-icons-dashboard.php:122
+#: dist/admin/carbon-icons-dashboard.php:122
+msgid "Our other plugins"
+msgstr "Nos autres plugins"
+
+#: admin/carbon-icons-dashboard.php:140
+#: build/admin/carbon-icons-dashboard.php:140
+#: dist/admin/carbon-icons-dashboard.php:140
+msgid "New"
+msgstr "Nouveau"
+
+#: admin/carbon-icons-dashboard.php:143
+#: build/admin/carbon-icons-dashboard.php:143
+#: dist/admin/carbon-icons-dashboard.php:143
+msgid "Coming soon"
+msgstr "Prochainement"
+
+#: admin/carbon-icons-dashboard.php:153
+#: build/admin/carbon-icons-dashboard.php:153
+#: dist/admin/carbon-icons-dashboard.php:153
+msgid "Get started"
+msgstr "Commencer"
+
+#: admin/carbon-icons-dashboard.php:159
+#: build/admin/carbon-icons-dashboard.php:159
+#: dist/admin/carbon-icons-dashboard.php:159 build/src/admin/index.js:5841
+#: build/src/admin/index.js:6029 build/src/admin/index.js:6248
+#: build/src/admin/index.js:6436 dist/src/admin/index.js:1
+#: src/admin/pages/Dashboard.jsx:130 src/admin/pages/Dashboard.jsx:200
+#: src/admin/pages/License.jsx:81 src/admin/pages/License.jsx:151
+#: build/src/admin/index.js:5144 build/src/admin/index.js:5214
+#: build/src/admin/index.js:5306 build/src/admin/index.js:5376
+msgid "Learn more"
+msgstr "En savoir plus"
+
+#: admin/carbon-icons-dashboard.php:166
+#: build/admin/carbon-icons-dashboard.php:166
+#: dist/admin/carbon-icons-dashboard.php:166
+msgid "All plugins are installed ! Thank you for your loyalty :)"
+msgstr "Tous les plugins sont installés ! Merci pour votre fidélité :)"
+
+#: admin/carbon-icons-dashboard.php:174
+#: build/admin/carbon-icons-dashboard.php:174
+#: dist/admin/carbon-icons-dashboard.php:174
+msgid "Latest releases"
+msgstr "Dernières versions"
+
+#: admin/carbon-icons-dashboard.php:190 admin/carbon-icons-dashboard.php:219
+#: build/admin/carbon-icons-dashboard.php:190
+#: build/admin/carbon-icons-dashboard.php:219
+#: dist/admin/carbon-icons-dashboard.php:190
+#: dist/admin/carbon-icons-dashboard.php:219
+msgid "Read more"
+msgstr "Lire plus"
+
+#: admin/carbon-icons-dashboard.php:197 admin/carbon-icons-dashboard.php:226
+#: build/admin/carbon-icons-dashboard.php:197
+#: build/admin/carbon-icons-dashboard.php:226
+#: dist/admin/carbon-icons-dashboard.php:197
+#: dist/admin/carbon-icons-dashboard.php:226
+msgid "Cannot read RSS."
+msgstr "Impossible de lire le flux RSS."
+
+#: admin/carbon-icons-dashboard.php:203
+#: build/admin/carbon-icons-dashboard.php:203
+#: dist/admin/carbon-icons-dashboard.php:203
+msgid "News from our blog"
+msgstr "Actualités de notre blog"
+
+#: build/includes/class-carbon-icons-activator.php:57
+#: dist/includes/class-carbon-icons-activator.php:57
+#: includes/class-carbon-icons-activator.php:57
+msgid ""
+"Carbon Icons and Carbon Icons Pro can't be activated at the same time. "
+"Carbon Icons Pro have been deactivated."
+msgstr ""
+"Les plugins Carbon Icons et Carbon Icons Pro ne peuvent pas être activés en "
+"même temps. Carbon Icons Pro a été désactivé."
+
+#: build/src/admin/index.js:5299 dist/src/admin/index.js:1
+#: src/admin/index.js:48 build/src/admin/index.js:4861
+msgid "Your dashboard"
+msgstr "Tableau de bord"
+
+#: build/src/admin/index.js:5300 dist/src/admin/index.js:1
+#: src/admin/index.js:48 build/src/admin/index.js:4861
+msgid "You will find every setting and useful links on this page."
+msgstr "Vous trouverez sur cette page tous les paramètres et les liens utiles."
+
+#: build/src/admin/index.js:5307 dist/src/admin/index.js:1
+#: src/admin/index.js:49 build/src/admin/index.js:4862
+msgid "License settings"
+msgstr "Paramètres de la license"
+
+#: build/src/admin/index.js:5308 dist/src/admin/index.js:1
+#: src/admin/index.js:49 build/src/admin/index.js:4862
+msgid "Here, you will be able to manage your license (only in pro version)."
+msgstr ""
+"Ici, vous pourrez gérer votre licence (uniquement dans la version pro)."
+
+#: build/src/admin/index.js:5315 dist/src/admin/index.js:1
+#: src/admin/index.js:50 build/src/admin/index.js:4863
+msgid "Icon bloc activation"
+msgstr "Activation du bloc d’icônes"
+
+#: build/src/admin/index.js:5316 dist/src/admin/index.js:1
+#: src/admin/index.js:50 build/src/admin/index.js:4863
+msgid ""
+"Easily toggle the bloc visibility on the editor. Be careful tho, if you have "
+"already created some blocks and deactivate the icons, they won't work "
+"anymore."
+msgstr ""
+"Il est facile de changer la visibilité des blocs dans l’éditeur. Attention "
+"cependant, si vous avez déjà créé des blocs et que vous désactivez les "
+"icônes, ils ne fonctionneront plus."
+
+#: build/src/admin/index.js:5324 dist/src/admin/index.js:1
+#: src/admin/index.js:51 build/src/admin/index.js:4864
+msgid "Toggle the light/dark theme and choose the colors that suit you best."
+msgstr ""
+"Basculez dans le thème clair/foncé et choisissez les couleurs qui vous "
+"conviennent le mieux."
+
+#: build/src/admin/index.js:5331 dist/src/admin/index.js:1
+#: src/admin/index.js:52 build/src/admin/index.js:4865
+msgid "Save your changes"
+msgstr "Enregistrer les modifications"
+
+#: build/src/admin/index.js:5332 dist/src/admin/index.js:1
+#: src/admin/index.js:52 build/src/admin/index.js:4865
+msgid "Don't forget to save data after every change on this page !"
+msgstr ""
+"N’oubliez pas de sauvegarder les données après chaque modification de cette "
+"page !"
+
+#: build/src/admin/index.js:5338 dist/src/admin/index.js:1
+#: src/admin/index.js:53 build/src/admin/index.js:4866
+msgid "Congrats !"
+msgstr "Félicitations !"
+
+#: build/src/admin/index.js:5339 dist/src/admin/index.js:1
+#: src/admin/index.js:53 build/src/admin/index.js:4866
+msgid "You are now ready to get started with Carbon Icons, have fun !"
+msgstr ""
+"Vous êtes maintenant prêt à démarrer avec Carbon Icons, amusez-vous bien !"
+
+#: build/src/admin/index.js:5384 dist/src/admin/index.js:1
+#: src/admin/index.js:92 build/src/admin/index.js:4905
+msgid "Saving..."
+msgstr "Sauvegarde en cours…"
+
+#: build/src/admin/index.js:5391 dist/src/admin/index.js:1
+#: src/admin/index.js:97 build/src/admin/index.js:4910
+msgid "Successfully saved !"
+msgstr "Sauvegarde réussie !"
+
+#: build/src/admin/index.js:5398 dist/src/admin/index.js:1
+#: src/admin/index.js:102 build/src/admin/index.js:4915
+msgid "Error while saving"
+msgstr "Erreur lors de l’enregistrement"
+
+#: build/src/admin/index.js:5419 dist/src/admin/index.js:1
+#: src/admin/index.js:123 build/src/admin/index.js:4936
+msgid "Info"
+msgstr "Info"
+
+#: build/src/admin/index.js:5420 dist/src/admin/index.js:1
+#: src/admin/index.js:124 build/src/admin/index.js:4937
+msgid "Oh snapp ! Something went wrong"
+msgstr "Oh mince ! Quelque chose a mal tourné"
+
+#: build/src/admin/index.js:5421 dist/src/admin/index.js:1
+#: src/admin/index.js:125 build/src/admin/index.js:4938
+msgid "Reload the page"
+msgstr "Recharger la page"
+
+#: build/src/admin/index.js:5434 dist/src/admin/index.js:1
+#: src/admin/index.js:133 build/src/admin/index.js:4946
+msgid "Icons are active"
+msgstr "Les icônes ne sont pas actifs"
+
+#: build/src/admin/index.js:5435 dist/src/admin/index.js:1
+#: src/admin/index.js:134 build/src/admin/index.js:4947
+msgid "Icons are not active"
+msgstr "Les icônes ne sont pas actives"
+
+#: build/src/admin/index.js:5451 dist/src/admin/index.js:1
+#: src/admin/index.js:139 build/src/admin/index.js:4952
+msgid "Unlock full experience with Carbon Icon Pro"
+msgstr "Débloquer l’expérience complète avec Carbon Icon Pro"
+
+#: build/src/admin/index.js:5454 dist/src/admin/index.js:1
+#: src/admin/index.js:145 build/src/admin/index.js:4958
+msgid "Save"
+msgstr "Sauvegarder"
+
+#: build/src/admin/index.js:5455 dist/src/admin/index.js:1
+#: src/admin/index.js:146 build/src/admin/index.js:4959
+msgid "Saving"
+msgstr "Sauvegarde"
+
+#: build/src/admin/index.js:5536 dist/src/admin/index.js:1
+#: src/admin/pages/Dashboard.jsx:22 build/src/admin/index.js:5036
+msgid "Icons are curently visible in the block editor"
+msgstr "Les icônes sont actuellement visibles dans l'éditeur de blocs"
+
+#: build/src/admin/index.js:5537 dist/src/admin/index.js:1
+#: src/admin/pages/Dashboard.jsx:23 build/src/admin/index.js:5037
+msgid "Icons are not visible in the block editor"
+msgstr "Les icônes ne sont actuellement pas visibles dans l'éditeur de blocs"
+
+#: build/src/admin/index.js:5541 build/src/blocks/icons/index.js:13189
+#: dist/src/admin/index.js:1 dist/src/blocks/icons/index.js:1
+#: src/admin/pages/Dashboard.jsx:29 src/blocks/icons/edit.js:297
+#: build/src/admin/index.js:5043 build/src/blocks/icons/index.js:8313
+msgid "Settings"
+msgstr "Paramètres"
+
+#: build/src/admin/index.js:5544 dist/src/admin/index.js:1
+#: src/admin/pages/Dashboard.jsx:30 build/src/admin/index.js:5044
+msgid "Delete all data on plugin remove"
+msgstr "Supprimer toutes les données lors de la désinstallation du plugin"
+
+#: build/src/admin/index.js:5562 dist/src/admin/index.js:1
+#: src/admin/pages/Dashboard.jsx:33 build/src/admin/index.js:5047
+msgid "Replay animation tour"
+msgstr "Rejouer le tour d'animation"
+
+#: build/src/admin/index.js:5563 dist/src/admin/index.js:1
+#: src/admin/pages/Dashboard.jsx:36 build/src/admin/index.js:5050
+msgid "Found a bug ? Need help ?"
+msgstr "Vous avez trouvé un bug ? Besoin d'aide ?"
+
+#: build/src/admin/index.js:5564 dist/src/admin/index.js:1
+#: src/admin/pages/Dashboard.jsx:36 build/src/admin/index.js:5050
+msgid "Please contact us if you found a bug or if you have any question."
+msgstr ""
+"N'hésitez pas à nous contacter si vous avez trouvé un bug ou si vous avez la "
+"moindre question."
+
+#: build/src/admin/index.js:5582 dist/src/admin/index.js:1
+#: src/admin/pages/Dashboard.jsx:39 build/src/admin/index.js:5053
+msgid "Help with my license key"
+msgstr "Aide avec ma clé de licence"
+
+#: build/src/admin/index.js:5598 dist/src/admin/index.js:1
+#: src/admin/pages/Dashboard.jsx:43 build/src/admin/index.js:5057
+msgid "Bug with the plugin"
+msgstr "Bug avec le plugin"
+
+#: build/src/admin/index.js:5614 dist/src/admin/index.js:1
+#: src/admin/pages/Dashboard.jsx:47 build/src/admin/index.js:5061
+msgid "Other question"
+msgstr "Autre question"
+
+#: build/src/admin/index.js:5615 dist/src/admin/index.js:1
+#: src/admin/pages/Dashboard.jsx:50 build/src/admin/index.js:5064
+msgid "Leave us a review !"
+msgstr "Laissez-nous un avis !"
+
+#: build/src/admin/index.js:5616 dist/src/admin/index.js:1
+#: src/admin/pages/Dashboard.jsx:50 build/src/admin/index.js:5064
+msgid "Are you happy with our plugin ?"
+msgstr "Êtes-vous satisfait de notre plugin ?"
+
+#: build/src/admin/index.js:5633 dist/src/admin/index.js:1
+#: src/admin/pages/Dashboard.jsx:53 build/src/admin/index.js:5067
+msgid "Leave a review"
+msgstr "Laissez un avis"
+
+#: build/src/admin/index.js:5635 dist/src/admin/index.js:1
+#: src/admin/pages/Dashboard.jsx:56 build/src/admin/index.js:5070
+msgid "The community"
+msgstr "La communauté"
+
+#: build/src/admin/index.js:5637 dist/src/admin/index.js:1
+#: src/admin/pages/Dashboard.jsx:58 build/src/admin/index.js:5072
+msgid "Find community help with our support threads!"
+msgstr "Trouvez de l’aide grâce à nos topiques de support!"
+
+#: build/src/admin/index.js:5652 dist/src/admin/index.js:1
+#: src/admin/pages/Dashboard.jsx:61 build/src/admin/index.js:5075
+msgid "Read the threads"
+msgstr "Lire les topiques"
+
+#: build/src/admin/index.js:5655 build/src/admin/index.js:6062
+#: dist/src/admin/index.js:1 src/admin/pages/Dashboard.jsx:66
+#: src/admin/pages/License.jsx:17 build/src/admin/index.js:5080
+#: build/src/admin/index.js:5242
+msgid "Why not buy a yearly license ..."
+msgstr "Pourquoi ne pas acheter une licence annuelle..."
+
+#: build/src/admin/index.js:5656 build/src/admin/index.js:6063
+#: dist/src/admin/index.js:1 src/admin/pages/Dashboard.jsx:66
+#: src/admin/pages/License.jsx:17 build/src/admin/index.js:5080
+#: build/src/admin/index.js:5242
+msgid ""
+"Unlock the full Carbon Plugins experience: thousands of icons, multiple "
+"libraries, all futur updates and premium support."
+msgstr ""
+"Débloquez l'expérience complète de Carbon Plugins : des milliers d'icônes, "
+"plusieurs bibliothèques, toutes les mises à jour futures et un support "
+"premium."
+
+#: build/src/admin/index.js:5678 build/src/admin/index.js:5866
+#: build/src/admin/index.js:6085 build/src/admin/index.js:6273
+#: dist/src/admin/index.js:1 src/admin/pages/Dashboard.jsx:72
+#: src/admin/pages/Dashboard.jsx:142 src/admin/pages/License.jsx:23
+#: src/admin/pages/License.jsx:93 build/src/admin/index.js:5086
+#: build/src/admin/index.js:5156 build/src/admin/index.js:5248
+#: build/src/admin/index.js:5318
+msgid "Access to WordPress icons library"
+msgstr "Accès à la bibliothèque d'icônes WordPress"
+
+#: build/src/admin/index.js:5689 build/src/admin/index.js:5877
+#: build/src/admin/index.js:6096 build/src/admin/index.js:6284
+#: dist/src/admin/index.js:1 src/admin/pages/Dashboard.jsx:76
+#: src/admin/pages/Dashboard.jsx:146 src/admin/pages/License.jsx:27
+#: src/admin/pages/License.jsx:97 build/src/admin/index.js:5090
+#: build/src/admin/index.js:5160 build/src/admin/index.js:5252
+#: build/src/admin/index.js:5322
+msgid "Access to Dashicon library"
+msgstr "Accès à la bibliothèque Dashicon"
+
+#: build/src/admin/index.js:5700 build/src/admin/index.js:5888
+#: build/src/admin/index.js:6107 build/src/admin/index.js:6295
+#: dist/src/admin/index.js:1 src/admin/pages/Dashboard.jsx:80
+#: src/admin/pages/Dashboard.jsx:150 src/admin/pages/License.jsx:31
+#: src/admin/pages/License.jsx:101 build/src/admin/index.js:5094
+#: build/src/admin/index.js:5164 build/src/admin/index.js:5256
+#: build/src/admin/index.js:5326
+msgid "Access to Classic Icons library"
+msgstr "Accès à la bibliothèque d'icônes classiques"
+
+#: build/src/admin/index.js:5711 build/src/admin/index.js:5899
+#: build/src/admin/index.js:6118 build/src/admin/index.js:6306
+#: dist/src/admin/index.js:1 src/admin/pages/Dashboard.jsx:84
+#: src/admin/pages/Dashboard.jsx:154 src/admin/pages/License.jsx:35
+#: src/admin/pages/License.jsx:105 build/src/admin/index.js:5098
+#: build/src/admin/index.js:5168 build/src/admin/index.js:5260
+#: build/src/admin/index.js:5330
+msgid "Access to 7300+ Advanced Icons library"
+msgstr "Accès à la bibliothèque de plus de 7300 icônes avancées"
+
+#: build/src/admin/index.js:5722 build/src/admin/index.js:5910
+#: build/src/admin/index.js:6129 build/src/admin/index.js:6317
+#: dist/src/admin/index.js:1 src/admin/pages/Dashboard.jsx:88
+#: src/admin/pages/Dashboard.jsx:158 src/admin/pages/License.jsx:39
+#: src/admin/pages/License.jsx:109 build/src/admin/index.js:5102
+#: build/src/admin/index.js:5172 build/src/admin/index.js:5264
+#: build/src/admin/index.js:5334
+msgid "Access to Animated library"
+msgstr "Accès à la bibliothèque d'icônes animées"
+
+#: build/src/admin/index.js:5733 build/src/admin/index.js:5921
+#: build/src/admin/index.js:6140 build/src/admin/index.js:6328
+#: dist/src/admin/index.js:1 src/admin/pages/Dashboard.jsx:92
+#: src/admin/pages/Dashboard.jsx:162 src/admin/pages/License.jsx:43
+#: src/admin/pages/License.jsx:113 build/src/admin/index.js:5106
+#: build/src/admin/index.js:5176 build/src/admin/index.js:5268
+#: build/src/admin/index.js:5338
+msgid "Access to Logo library"
+msgstr "Accès à la bibliothèque de logos"
+
+#: build/src/admin/index.js:5747 build/src/admin/index.js:5935
+#: build/src/admin/index.js:6154 build/src/admin/index.js:6342
+#: dist/src/admin/index.js:1 src/admin/pages/Dashboard.jsx:98
+#: src/admin/pages/Dashboard.jsx:168 src/admin/pages/License.jsx:49
+#: src/admin/pages/License.jsx:119 build/src/admin/index.js:5112
+#: build/src/admin/index.js:5182 build/src/admin/index.js:5274
+#: build/src/admin/index.js:5344
+msgid "Access to Flag library"
+msgstr "Accès à la bibliothèque de drapeaux"
+
+#: build/src/admin/index.js:5758 build/src/admin/index.js:5946
+#: build/src/admin/index.js:6165 build/src/admin/index.js:6353
+#: dist/src/admin/index.js:1 src/admin/pages/Dashboard.jsx:102
+#: src/admin/pages/Dashboard.jsx:172 src/admin/pages/License.jsx:53
+#: src/admin/pages/License.jsx:123 build/src/admin/index.js:5116
+#: build/src/admin/index.js:5186 build/src/admin/index.js:5278
+#: build/src/admin/index.js:5348
+msgid "License for 1 website"
+msgstr "Licence pour 1 site"
+
+#: build/src/admin/index.js:5769 build/src/admin/index.js:5957
+#: build/src/admin/index.js:6176 build/src/admin/index.js:6364
+#: dist/src/admin/index.js:1 src/admin/pages/Dashboard.jsx:106
+#: src/admin/pages/Dashboard.jsx:176 src/admin/pages/License.jsx:57
+#: src/admin/pages/License.jsx:127 build/src/admin/index.js:5120
+#: build/src/admin/index.js:5190 build/src/admin/index.js:5282
+#: build/src/admin/index.js:5352
+msgid "Futur updates for"
+msgstr "Mises à jour futures pour"
+
+#: build/src/admin/index.js:5771 build/src/admin/index.js:5784
+#: build/src/admin/index.js:6178 build/src/admin/index.js:6191
+#: dist/src/admin/index.js:1 src/admin/pages/Dashboard.jsx:106
+#: src/admin/pages/Dashboard.jsx:110 src/admin/pages/License.jsx:57
+#: src/admin/pages/License.jsx:61 build/src/admin/index.js:5120
+#: build/src/admin/index.js:5124 build/src/admin/index.js:5282
+#: build/src/admin/index.js:5286
+msgid "12 months"
+msgstr "12 mois"
+
+#: build/src/admin/index.js:5782 build/src/admin/index.js:5970
+#: build/src/admin/index.js:6189 build/src/admin/index.js:6377
+#: dist/src/admin/index.js:1 src/admin/pages/Dashboard.jsx:110
+#: src/admin/pages/Dashboard.jsx:180 src/admin/pages/License.jsx:61
+#: src/admin/pages/License.jsx:131 build/src/admin/index.js:5124
+#: build/src/admin/index.js:5194 build/src/admin/index.js:5286
+#: build/src/admin/index.js:5356
+msgid "Premium support for"
+msgstr "Support premium pour"
+
+#: build/src/admin/index.js:5795 build/src/admin/index.js:5983
+#: build/src/admin/index.js:6202 build/src/admin/index.js:6390
+#: dist/src/admin/index.js:1 src/admin/pages/Dashboard.jsx:114
+#: src/admin/pages/Dashboard.jsx:184 src/admin/pages/License.jsx:65
+#: src/admin/pages/License.jsx:135 build/src/admin/index.js:5128
+#: build/src/admin/index.js:5198 build/src/admin/index.js:5290
+#: build/src/admin/index.js:5360
+msgid "Online chat access"
+msgstr "Accès au chat en ligne"
+
+#: build/src/admin/index.js:5804 build/src/admin/index.js:6211
+#: dist/src/admin/index.js:1 src/admin/pages/Dashboard.jsx:120
+#: src/admin/pages/License.jsx:71 build/src/admin/index.js:5134
+#: build/src/admin/index.js:5296
+msgid "$19"
+msgstr "19$"
+
+#: build/src/admin/index.js:5806 build/src/admin/index.js:6213
+#: dist/src/admin/index.js:1 src/admin/pages/Dashboard.jsx:121
+#: src/admin/pages/License.jsx:72 build/src/admin/index.js:5135
+#: build/src/admin/index.js:5297
+msgid "year"
+msgstr "an"
+
+#: build/src/admin/index.js:5824 build/src/admin/index.js:6012
+#: build/src/admin/index.js:6231 build/src/admin/index.js:6419
+#: dist/src/admin/index.js:1 src/admin/pages/Dashboard.jsx:126
+#: src/admin/pages/Dashboard.jsx:196 src/admin/pages/License.jsx:77
+#: src/admin/pages/License.jsx:147 build/src/admin/index.js:5140
+#: build/src/admin/index.js:5210 build/src/admin/index.js:5302
+#: build/src/admin/index.js:5372
+msgid "Buy now"
+msgstr "Acheter maintenant"
+
+#: build/src/admin/index.js:5842 build/src/admin/index.js:6249
+#: dist/src/admin/index.js:1 src/admin/pages/Dashboard.jsx:136
+#: src/admin/pages/License.jsx:87 build/src/admin/index.js:5150
+#: build/src/admin/index.js:5312
+msgid "... or a lifetime license ?"
+msgstr "... ou une licence à vie ?"
+
+#: build/src/admin/index.js:5843 build/src/admin/index.js:6250
+#: dist/src/admin/index.js:1 src/admin/pages/Dashboard.jsx:136
+#: src/admin/pages/License.jsx:87 build/src/admin/index.js:5150
+#: build/src/admin/index.js:5312
+msgid ""
+"Save more by buying a lifetime license and get full content, plugin updates "
+"and support, for ever."
+msgstr ""
+"Économisez davantage en achetant une licence à vie et obtenez un accès "
+"complet au contenu, aux mises à jour du plugin et au support, pour toujours."
+
+#: build/src/admin/index.js:5959 build/src/admin/index.js:5972
+#: build/src/admin/index.js:6366 build/src/admin/index.js:6379
+#: dist/src/admin/index.js:1 src/admin/pages/Dashboard.jsx:176
+#: src/admin/pages/Dashboard.jsx:180 src/admin/pages/License.jsx:127
+#: src/admin/pages/License.jsx:131 build/src/admin/index.js:5190
+#: build/src/admin/index.js:5194 build/src/admin/index.js:5352
+#: build/src/admin/index.js:5356
+msgid "ever"
+msgstr "toujours"
+
+#: build/src/admin/index.js:5992 build/src/admin/index.js:6399
+#: dist/src/admin/index.js:1 src/admin/pages/Dashboard.jsx:190
+#: src/admin/pages/License.jsx:141 build/src/admin/index.js:5204
+#: build/src/admin/index.js:5366
+msgid "$89"
+msgstr "89$"
+
+#: build/src/admin/index.js:5994 build/src/admin/index.js:6401
+#: dist/src/admin/index.js:1 src/admin/pages/Dashboard.jsx:191
+#: src/admin/pages/License.jsx:142 build/src/admin/index.js:5205
+#: build/src/admin/index.js:5367
+msgid "once"
+msgstr "une fois"
+
+#: build/src/admin/index.js:6055 dist/src/admin/index.js:1
+#: src/admin/pages/License.jsx:7 build/src/admin/index.js:5232
+msgid "Licence"
+msgstr "License"
+
+#: build/src/admin/index.js:6057 dist/src/admin/index.js:1
+#: src/admin/pages/License.jsx:12 build/src/admin/index.js:5237
+msgid "Manage license"
+msgstr "Gérer la licence"
+
+#: build/src/admin/index.js:6059 dist/src/admin/index.js:1
+#: src/admin/pages/License.jsx:14 build/src/admin/index.js:5239
+msgid ""
+"You are currently using the free version of Carbon Icons. You can choose a "
+"plan below to start taking advantage of thousands new icons, premium support "
+"and much more !"
+msgstr ""
+"Vous utilisez actuellement la version gratuite de Carbon Icons. Vous pouvez "
+"choisir un plan ci-dessous pour commencer à profiter de milliers de "
+"nouvelles icônes, d'un support premium et bien plus encore !"
+
+#: build/src/blocks/icons/index.js:8810 dist/src/blocks/icons/index.js:1
+#: src/assets/components/Link.jsx:13 build/src/blocks/icons/index.js:4059
+msgid "Link settings"
+msgstr "Paramètres du lien"
+
+#: build/src/blocks/icons/index.js:8813 dist/src/blocks/icons/index.js:1
+#: src/assets/components/Link.jsx:17 build/src/blocks/icons/index.js:4063
+msgid "Enter a page or a URL"
+msgstr "Entrez une page ou une URL"
+
+#: build/src/blocks/icons/index.js:8819 dist/src/blocks/icons/index.js:1
+#: src/assets/components/Link.jsx:24 build/src/blocks/icons/index.js:4070
+msgid "Open in a new tab"
+msgstr "Ouvrir dans un nouvel onglet"
+
+#: build/src/blocks/icons/index.js:8842 dist/src/blocks/icons/index.js:1
+#: src/assets/components/Link.jsx:41 build/src/blocks/icons/index.js:4087
+msgid "Add a link"
+msgstr "Ajouter un lien"
+
+#: build/src/blocks/icons/index.js:12844 dist/src/blocks/icons/index.js:1
+#: src/assets/icons/wordpress.js:17 build/src/blocks/icons/index.js:8009
+msgid "Miscellaneous"
+msgstr "Divers"
+
+#: build/src/blocks/icons/index.js:13087 dist/src/blocks/icons/index.js:4
+#: src/blocks/icons/edit.js:204 build/src/blocks/icons/index.js:8220
+msgid "Please enter an SVG string"
+msgstr "Veuillez saisir une chaîne SVG"
+
+#: build/src/blocks/icons/index.js:13194 dist/src/blocks/icons/index.js:1
+#: src/blocks/icons/edit.js:301 build/src/blocks/icons/index.js:8317
+msgid "Width type"
+msgstr "Type de taille"
+
+#: build/src/blocks/icons/index.js:13198 dist/src/blocks/icons/index.js:1
+#: src/blocks/icons/edit.js:306 build/src/blocks/icons/index.js:8322
+msgid "Default"
+msgstr "Défaut"
+
+#: build/src/blocks/icons/index.js:13201 dist/src/blocks/icons/index.js:1
+#: src/blocks/icons/edit.js:310 build/src/blocks/icons/index.js:8326
+msgid "Full"
+msgstr "Remplir"
+
+#: build/src/blocks/icons/index.js:13204 dist/src/blocks/icons/index.js:1
+#: src/blocks/icons/edit.js:314 build/src/blocks/icons/index.js:8330
+msgid "Custom"
+msgstr "Choisir"
+
+#: build/src/blocks/icons/index.js:13209 dist/src/blocks/icons/index.js:1
+#: src/blocks/icons/edit.js:320 build/src/blocks/icons/index.js:8336
+msgid "Icon size (in px)"
+msgstr "Taille de l’icône (en px)"
+
+#: build/src/blocks/icons/index.js:13223 dist/src/blocks/icons/index.js:1
+#: src/blocks/icons/edit.js:342 build/src/blocks/icons/index.js:8358
+msgid "Rotate icon"
+msgstr "Tourner l’icône"
+
+#: build/src/blocks/icons/index.js:13227 dist/src/blocks/icons/index.js:1
+#: src/blocks/icons/edit.js:347 build/src/blocks/icons/index.js:8363
+msgid "Flip horizontally"
+msgstr "Miroir horizontal"
+
+#: build/src/blocks/icons/index.js:13234 dist/src/blocks/icons/index.js:1
+#: src/blocks/icons/edit.js:353 build/src/blocks/icons/index.js:8369
+msgid "Flip vertically"
+msgstr "Miroir vertical"
+
+#: build/src/blocks/icons/index.js:13244 dist/src/blocks/icons/index.js:1
+#: src/blocks/icons/edit.js:361 build/src/blocks/icons/index.js:8377
+msgid "Alignment"
+msgstr "Alignement"
+
+#: build/src/blocks/icons/index.js:13249 dist/src/blocks/icons/index.js:1
+#: src/blocks/icons/edit.js:370 build/src/blocks/icons/index.js:8386
+msgid "Change icon"
+msgstr "Changer l’icône"
+
+#: build/src/blocks/icons/index.js:13250 dist/src/blocks/icons/index.js:1
+#: src/blocks/icons/edit.js:372 build/src/blocks/icons/index.js:8388
+msgid "Change"
+msgstr "Changer"
+
+#: build/src/blocks/icons/index.js:13256 dist/src/blocks/icons/index.js:1
+#: src/blocks/icons/edit.js:381 build/src/blocks/icons/index.js:8397
+msgid "Alignment Settings"
+msgstr "Paramètres d’alignement"
+
+#: build/src/blocks/icons/index.js:13265 dist/src/blocks/icons/index.js:1
+#: src/blocks/icons/edit.js:387 build/src/blocks/icons/index.js:8403
+msgid "Left Alignment"
+msgstr "Alignement à gauche"
+
+#: build/src/blocks/icons/index.js:13275 dist/src/blocks/icons/index.js:1
+#: src/blocks/icons/edit.js:396 build/src/blocks/icons/index.js:8412
+msgid "Center Alignment"
+msgstr "Alignement au centre"
+
+#: build/src/blocks/icons/index.js:13285 dist/src/blocks/icons/index.js:1
+#: src/blocks/icons/edit.js:405 build/src/blocks/icons/index.js:8421
+msgid "Right Alignment"
+msgstr "Alignement à droite"
+
+#: build/src/blocks/icons/index.js:13314 build/src/blocks/icons/index.js:13331
+#: dist/src/blocks/icons/index.js:1 src/blocks/icons/edit.js:431
+#: src/blocks/icons/edit.js:439 build/src/blocks/icons/index.js:8447
+#: build/src/blocks/icons/index.js:8455
+msgid "Add an icon"
+msgstr "Ajouter un icône"
+
+#. translators: %2$s is replaced with the string searched
+#: build/src/blocks/icons/index.js:13347 dist/src/blocks/icons/index.js:3
+#: src/blocks/icons/edit.js:457 build/src/blocks/icons/index.js:8473
+msgid "%1$s result for \"%2$s\""
+msgid_plural "%1$s results for \"%2$s\""
+msgstr[0] "%1$s résultat pour « %2$s »"
+msgstr[1] "%1$s résultats pour « %2$s »"
+
+#: build/src/blocks/icons/index.js:13353 dist/src/blocks/icons/index.js:4
+#: src/blocks/icons/edit.js:475 build/src/blocks/icons/index.js:8491
+msgid "Select an icon library"
+msgstr "Choisir une bibliothèque d’icônes"
+
+#: build/src/blocks/icons/index.js:13358 dist/src/blocks/icons/index.js:4
+#: src/blocks/icons/edit.js:479 build/src/blocks/icons/index.js:8495
+msgid "Classic Icons"
+msgstr "Icônes classiques"
+
+#: build/src/blocks/icons/index.js:13361 dist/src/blocks/icons/index.js:4
+#: src/blocks/icons/edit.js:480 build/src/blocks/icons/index.js:8496
+msgid "Wordpress icons"
+msgstr "Icônes WordPress"
+
+#: build/src/blocks/icons/index.js:13364 dist/src/blocks/icons/index.js:4
+#: src/blocks/icons/edit.js:481 build/src/blocks/icons/index.js:8497
+msgid "Dashicons"
+msgstr "Dashicons"
+
+#: build/src/blocks/icons/index.js:13367 dist/src/blocks/icons/index.js:4
+#: src/blocks/icons/edit.js:485 build/src/blocks/icons/index.js:8501
+msgid "Size"
+msgstr "Taille"
+
+#: build/src/blocks/icons/index.js:13387 dist/src/blocks/icons/index.js:4
+#: src/blocks/icons/edit.js:499 build/src/blocks/icons/index.js:8515
+msgid "Edit custom SVG"
+msgstr "Editer le SVG personnalisé"
+
+#: build/src/blocks/icons/index.js:13387 dist/src/blocks/icons/index.js:4
+#: src/blocks/icons/edit.js:499 build/src/blocks/icons/index.js:8515
+msgid "Insert custom SVG"
+msgstr "Insérer un SVG personnalisé"
+
+#: build/src/blocks/icons/index.js:13418 dist/src/blocks/icons/index.js:4
+#: src/blocks/icons/edit.js:506 build/src/blocks/icons/index.js:8522
+msgid "Sorry, no icons were found for your search."
+msgstr "Désolé, aucun icône n’a été trouvé pour votre recherce."
+
+#: build/src/blocks/icons/index.js:13452 dist/src/blocks/icons/index.js:4
+#: src/blocks/icons/edit.js:537 build/src/blocks/icons/index.js:8553
+msgid "Insert an SVG tag"
+msgstr "Insérer tag SVG"
+
+#: build/src/blocks/icons/index.js:13460 dist/src/blocks/icons/index.js:4
+#: src/blocks/icons/edit.js:544 build/src/blocks/icons/index.js:8560
+msgid "SVG tag"
+msgstr "Tag SVG"
+
+#: build/src/blocks/icons/index.js:13465 dist/src/blocks/icons/index.js:4
+#: src/blocks/icons/edit.js:551 build/src/blocks/icons/index.js:8567
+msgid "Preview"
+msgstr "Prévisualisation"
+
+#: build/src/blocks/icons/index.js:13478 dist/src/blocks/icons/index.js:4
+#: src/blocks/icons/edit.js:563 build/src/blocks/icons/index.js:8579
+msgid "SVG size (in px)"
+msgstr "Taille du SVG (en px)"
+
+#: build/src/blocks/icons/index.js:13494 dist/src/blocks/icons/index.js:4
+#: src/blocks/icons/edit.js:572 build/src/blocks/icons/index.js:8588
+msgid "Preview icon"
+msgstr "Prévisualisé l’icône"
+
+#: build/src/blocks/icons/index.js:13499 dist/src/blocks/icons/index.js:4
+#: src/blocks/icons/edit.js:573 build/src/blocks/icons/index.js:8589
+msgid "Add icon"
+msgstr "Ajouter un icône"
+
+#: build/src/blocks/icons/index.js:13642 dist/src/blocks/icons/index.js:1
+#: src/blocks/icons/index.js:14 build/src/blocks/icons/index.js:8643
+msgid "Icon picker"
+msgstr "Sélecteur d’icônes"
+
+#: build/src/blocks/icons/index.js:13643 dist/src/blocks/icons/index.js:1
+#: src/blocks/icons/index.js:16 build/src/blocks/icons/index.js:8645
+msgid "SVG"
+msgstr "SVG"
+
+#: build/src/blocks/icons/index.js:13643 dist/src/blocks/icons/index.js:1
+#: src/blocks/icons/index.js:17 build/src/blocks/icons/index.js:8646
+msgid "image"
+msgstr "image"
+
+#: build/src/blocks/icons/index.js:13643 dist/src/blocks/icons/index.js:1
+#: src/blocks/icons/index.js:18 build/src/blocks/icons/index.js:8647
+msgid "picture"
+msgstr "image"
+
+#: build/src/blocks/icons/index.js:13644 dist/src/blocks/icons/index.js:1
+#: src/blocks/icons/index.js:20 build/src/blocks/icons/index.js:8649
+msgid "A powerful icon picker and SVG inserter"
+msgstr "Ajoutez un sélecteur d'icônes puissant à votre éditeur Gutenberg"
+
+#: build/src/plugins/auto-recovery/index.js:134
+#: dist/src/plugins/auto-recovery/index.js:1
+#: src/plugins/auto-recovery/attempt-recovery.js:141
+#: build/src/plugins/auto-recovery/index.js:141
+msgid " was auto-recovered successfully !"
+msgstr " a été recharger automatiquement avec succès !"
+
+#~ msgid "Underline text"
+#~ msgstr "Souligner le texte"
