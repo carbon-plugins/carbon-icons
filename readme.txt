@@ -46,6 +46,7 @@ For more information or help :
 * [Support](https://carbon-plugins.com/support/)
 * [Contact us](https://carbon-plugins.com/contact/)
 * [Carbon Icons Pro](https://carbon-plugins.com/plugins/carbon-icons/)
+* [Github Repository](https://github.com/carbon-plugins/carbon-icons/)
 
 == Roadmap ==
 
