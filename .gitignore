@@ -34,3 +34,6 @@ package-lock.json
 
 # Better Commits settings
 .better-commits.json
+
+# Mac files
+.DS_Store
