@@ -1,6 +1,6 @@
-=== Carbon Icons ===
-Contributors: carbonplugins, mateocarbon, vanessacarbon
-Tags: icon, gutenberg, block, dashicons
+=== Carbon Icons - Powerful Icon Block and SVG inserter for Gutenberg ===
+Contributors: mateocarbon, vanessacarbon, carbonplugins
+Tags: icon, gutenberg, block, dashicons, wordpress icons, heroicons, svg block, icon block, emoji, flag
 Requires at least: 5.9
 Tested up to: 6.4
 Requires PHP: 7.0
@@ -9,21 +9,27 @@ Version: 1.0.0
 License: GPL-2.0-or-later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-Enhance your Gutenberg experience with our collection of icons.
+Easily add icons from multiple libraries tanks to a Gutenberg optimized block
 
 == Description ==
+[Premium](https://carbon-plugins.com/plugins/carbon-icons/) | [Docs](https://docs.carbon-plugins.com/carbon-icons/) | [Support](https://carbon-plugins.com/support/) | [Contact](https://carbon-plugins.com/contact/)
 
-Enhance your website's visual appeal with the Carbon Icons Plugin, a powerful Gutenberg block that allows you to seamlessly integrate and customize icons from various libraries. Effortlessly add a touch of elegance to your design and effectively communicate your message with stunning icons.
+= Simple, yet powerful icon block =
+Carbon Icons is a **powerful Gutenberg block** that allows you to **seamlessly integrate and customize tons of icons** from various libraries. Effortlessly add a touch of elegance to your design and effectively communicate your message with every icons you need.
+
+= Insert your own SVG =
+Safely **integrate and customize your own SVG tags**, and enhance your website's visual appeal.
 
 == Features ==
 
-- [FREE] Access to three free icon libraries: Classic icons, Dashicons, and WordPress icons.
-- [FREE] Customize icon size, color, position, and background to match your brand identity.
-- [FREE] Upload your custom SVG icons to add a unique touch to your content.
-- [PREMIUM] Four additional libraries: Advanced icons, Animated icons, Flag icons, and Logo icons.
+- **[FREE]** Access to three free icon libraries: Classic icons, Dashicons, and WordPress icons.
+- **[FREE]** Customize icon size, color, position, and background to match your brand identity.
+- **[FREE]** Upload your custom SVG icons to add a unique touch to your content.
+- **[FREE]** Easily find any icon with our built-in powerful search filed.
+- **[PREMIUM]** Four additional libraries: Advanced icons, Animated icons, Flag icons, and Logo icons.
 
 == Carbon Icons Pro ==
-Upgrade to [Carbon Icons Pro](https://carbon-plugins.com/plugins/carbon-icons/) for advanced features:
+Upgrade to **[Carbon Icons Pro](https://carbon-plugins.com/plugins/carbon-icons/)** for advanced features:
 
 - Get access to multiple new libraries and thousands new icons:
  - Advanced icons
@@ -50,13 +56,13 @@ For more information or help :
 
 == Roadmap ==
 
-- Improved search and keywords [NOT STARTED]
-- Full translation do French (fr_FR) [NOT STARTED]
-- New free icon libraries [NOT STARTED]
-- New premium icon libraries [NOT STARTED]
-- Create your own icon libraries  [NOT STARTED]
-- Translation do Spanish (es_ES) [NOT STARTED]
-- Translation do German (de_DE) [NOT STARTED]
+- Improved search and keywords `[IN PROGRESS]`
+- Full translation do French (fr_FR) `[IN PROGRESS]`
+- New free icon libraries `[NOT STARTED]`
+- New premium icon libraries `[NOT STARTED]`
+- Create your own icon libraries  `[NOT STARTED]`
+- Translation do Spanish (es_ES) `[NOT STARTED]`
+- Translation do German (de_DE) `[NOT STARTED]`
 
 == Installation ==
 
@@ -128,17 +134,23 @@ If you have purchased the premium version, you will receive premium support, whi
 
 == Screenshots ==
 
-1. Multiple icon libraries, with every icon you need.
-2. Add your own, custom SVG
-3. Multiple convenient settings
-4. Extended customisation for unique icons
-5. Dashboard in light mode
-6. Dashboard in dark mode
+1. With Carbon Icons, customization is a breeze. Tailor the icons to your precise requirements by adjusting their size, color, position, and background.
+2. Carbon Icons supports custom icons, allowing you to infuse your website with a personal touch.
+3. With over 12000 icons (in the premium version), Carbon Icons has every icon you need.
+4. Carbon Icons offers an impressive selection of icon libraries to suit your unique design needs.
+5. Carbon Icons was built for the Gutenberg editor, allowing you to add icons to your posts and pages with just a few clicks.
+6. Find any icon icon with ease thanks to a search input that lets you swiftly find anything you need.
+7. Multiple icon libraries, with every icon you need.
+8. Add your own, custom SVG
+9. Multiple convenient settings
+10. Extended customisation for unique icons
+11. Carbon Icons dashboard in light mode
+12. Carbon Icons dashboard in dark mode
 
 == Changelog ==
 
 = 1.0.0 =
-* Initial release
+* Initial release of Carbon Icons
 
 == Upgrade Notice ==
 
