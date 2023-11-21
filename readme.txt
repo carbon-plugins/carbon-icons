@@ -1,11 +1,11 @@
 === Carbon Icons - Powerful Icon Block and SVG inserter for Gutenberg ===
 Contributors: mateocarbon, vanessacarbon, carbonplugins
-Tags: icon, gutenberg, block, dashicons, wordpress icons, heroicons, svg block, icon block, emoji, flag
+Tags: icon, gutenberg, block, dashicons, wordpress icons, heroicons, svg block, symbols, arrows, icon block, emoji, flags, flag icon, custom svg, block editor icon, notifications, tools, weather, communication
 Requires at least: 5.9
 Tested up to: 6.4
 Requires PHP: 7.0
-Stable tag: 1.0.0
-Version: 1.0.0
+Stable tag: 1.0.1
+Version: 1.0.1
 License: GPL-2.0-or-later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -148,6 +148,11 @@ If you have purchased the premium version, you will receive premium support, whi
 12. Carbon Icons dashboard in dark mode
 
 == Changelog ==
+
+= 1.0.1 =
+* Added hundreds of keywords to dashicons
+* Improved Dashicon search
+* Improved code quality
 
 = 1.0.0 =
 * Initial release of Carbon Icons

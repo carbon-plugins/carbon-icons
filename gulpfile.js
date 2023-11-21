@@ -115,6 +115,7 @@ gulp.task('assets', function () {
 gulp.task('readme', function () {
 	return gulp
 		.src('./readme.txt')
+		.pipe(sort())
 		.pipe(gulp.dest( build ))
 		.pipe(
 			notify({
