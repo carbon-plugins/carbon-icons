@@ -31,6 +31,7 @@ if ( ! class_exists( 'Cbn_Icns_Register' ) ) :
 		 * @return void
 		 */
 		public function load_plugins() {
+
 			if( !get_option( CBN_ICNS_NAME . '_options' ) ) return;
 			if( !get_option( CBN_ICNS_NAME . '_options' )["pluginActive"] ) return;
 			if( wp_script_is('carbon-auto-recovery', 'registered') ) return;

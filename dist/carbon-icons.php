@@ -11,7 +11,7 @@
  * Plugin Name:       Carbon Icons
  * Plugin URI:    		https://carbon-plugins.com/carbon-icons/
  * Description:				Add a powerful icon picker to your Gutenberg editor
- * Version:           1.0.0
+ * Version:           1.0.1
  * Requires at least: 5.9
  * Requires PHP:      7.0
  * Author:            Carbon Plugins
@@ -93,7 +93,7 @@ if( ! class_exists('Carbon_Icons') ) {
 		}
 
 		/**
-		 * Get a setting from the Carbon_Icons class
+		 * Get a setting from the Cbn_Icns class
 		 *
 		 * @since  1.0.0
 		 * @param  string $setting
@@ -125,7 +125,7 @@ if( ! class_exists('Carbon_Icons') ) {
 		 * @return void
 		 */
 		private function register_rest_route() {
-			$rest_api 		= new Cbn_Icns_Rest_Route( 	$this->get('plugin_slug'), $this->get('plugin_name'), $this->get('plugin_version') );
+			$rest_api 		= new Cbn_Icns_Rest_Route( $this->get('plugin_slug'), $this->get('plugin_name'), $this->get('plugin_version') );
 
 			$this->loader->add_action( 'rest_api_init', $rest_api, 'create_rest_routes' );
 		}
@@ -138,7 +138,7 @@ if( ! class_exists('Carbon_Icons') ) {
 		* @return void
 		*/
 		private function register_admin_hooks() {
-			$plugin_admin = new Cbn_Icns_Admin( 			$this->get('plugin_slug'), $this->get('plugin_name'), $this->get('plugin_version') );
+			$plugin_admin = new Cbn_Icns_Admin( $this->get('plugin_slug'), $this->get('plugin_name'), $this->get('plugin_version') );
 
 			$this->loader->add_action( 'admin_menu', 						$plugin_admin, 'create_admin_menu' );
 			$this->loader->add_action( 'admin_enqueue_scripts', $plugin_admin, 'enqueue_resources' );
