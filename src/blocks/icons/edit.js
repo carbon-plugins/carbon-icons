@@ -1,4 +1,5 @@
 import DOMPurify from 'dompurify';
+//import Editor from '@monaco-editor/react';
 
 // WordPress dependencies
 import {
@@ -6,7 +7,7 @@ import {
 } from '@wordpress/block-editor';
 import { useState, useRef, useEffect, useMemo } from '@wordpress/element';
 import {
-	PanelBody, TextareaControl, RangeControl,
+	PanelBody, RangeControl, TextareaControl,
 	ToolbarGroup, ToolbarButton, Button, Popover,
 	Modal, SearchControl, MenuItem, MenuGroup, Notice, SelectControl,
 	__experimentalToggleGroupControl as ToggleGroupControl,
@@ -542,9 +543,26 @@ export default function edit(props) {
 					<section className="carbon-blocks-inserter-modal__inserter">
 						<TextareaControl
 							label={ __( "SVG tag", "carbon-icons" ) }
-							value={ icon.isCustom ? icon.svg : svgString}
+							value={ icon.isCustom ? icon.svg : svgString }
 							onChange={ setSvgString }
 						/>
+						{ /* <Editor
+							theme="vs-dark"
+							defaultLanguage="html"
+							onChange={ setSvgString }
+							defaultValue="// some comment"
+							value={ icon.isCustom ? icon.svg : svgString }
+							className="css-editor"
+							loading={ __( "Loading...", 'carbon-icons' ) }
+							contextmenu={ false }
+							options={{
+								inlineSuggest: true,
+								fontSize: "16px",
+								formatOnType: true,
+								autoClosingBrackets: true,
+								minimap: { scale: 10 }
+							}}
+						/> */}
 					</section>
 					<section className="carbon-blocks-inserter-modal__render">
 						<label>
